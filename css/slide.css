@@ -14,3 +14,17 @@
   color: #fefefe;
   font-weight: bold;
 }
+.orbit-previous{
+  opacity: 0;
+  height:1000px;
+  width:500px;
+}
+
+
+
+
+.orbit-next{
+  opacity: 0;
+  height:1000px;
+  width:500px;
+}
